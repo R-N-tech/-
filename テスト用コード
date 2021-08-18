@@ -3,6 +3,7 @@
 <title>GitHub＆Rocket.Chat連携テスト</title>
 </head>
 <body>
-Hello,world!
+  <h1>Hello,world!</h1>
+  <p>連携をテストしています。そのためのコードです。</p>
 </body>
 </html>
